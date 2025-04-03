@@ -18,7 +18,7 @@
 
 # Configure script variables.
 status=""
-git_hosting="gitlab.com"
+git_hosting="github.com"
 git_repo="monochrome-kde"
 git_desc="Monochrome KDE"
 prefix="${HOME}"
